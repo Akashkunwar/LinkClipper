@@ -67,7 +67,10 @@ To make changes or contributions to this project, follow these steps:
 - `index.js`: The JavaScript file for handling the logic of the extension.
 - `manifest.json`: The manifest file for the extension.
 
+## Previews
+
 ![Link Clipper](https://raw.githubusercontent.com/Akashkunwar/LinkClipper/main/LinkClipper.png)
+![Link Clipper](https://raw.githubusercontent.com/Akashkunwar/LinkClipper/main/Link%20Clipper%20Demo.mp4)
 
 ## License
 
