@@ -70,7 +70,6 @@ To make changes or contributions to this project, follow these steps:
 ## Previews
 
 ![Link Clipper](https://raw.githubusercontent.com/Akashkunwar/LinkClipper/main/LinkClipper.png)
-![Link Clipper](https://raw.githubusercontent.com/Akashkunwar/LinkClipper/main/Link%20Clipper%20Demo.mp4)
 
 ## License
 
